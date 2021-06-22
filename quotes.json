@@ -1,5 +1,5 @@
-{   
-    [
+{
+    "quotes": [
         {"quote":"If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough.", "author":"Oprah Winfrey"},
         {"quote":"If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.", "author":"James Cameron"},
         {"quote":"Spread love everywhere you go. Let no one ever come to you without leaving happier.", "author":"Mother Teresa"},
@@ -32,6 +32,7 @@
         {"quote":"Life itself is the most wonderful fairy tale.", "author":"Hans Christian Andersen"},
         {"quote":"Do not let making a living prevent you from making a life.", "author":"John Wooden"},
         {"quote":"Life is ours to be spent, not to be saved.", "author":"D. H. Lawrence"},
+        {"quote":"Keep smiling, because life is a beautiful thing and there's so much to smile about.", "author":"Marilyn Monroe"},
         {"quote":"Life is a long lesson in humility.", "author":"James M. Barrie"},
         {"quote":"In three words I can sum up everything I've learned about life: it goes on.", "author":"Robert Frost"},
         {"quote":"Love the life you live. Live the life you love.", "author":"Bob Marley"},
